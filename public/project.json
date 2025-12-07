@@ -3,9 +3,9 @@
         "image": "/assets/potfolio.png",
         "projecttittle": "Bavaneeswar K Potfolio",
         "summary": "This portfolio website is a clean and modern space that highlights my journey as a Full Stack Java Developer. It showcases my technical skills, tools I work with, ongoing learning, and the projects I’ve built using technologies like Java, Spring Boot, MySQL, JavaScript, React, and more.",
-        "github": "",
+        "github": "https://github.com/bavaneeswaran49/potfolio",
         "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
-        "live":"hbb"
+        "live":"https://potfolio-q6ug.vercel.app/"
     },
     {
         "image": "/assets/CarZone.png",

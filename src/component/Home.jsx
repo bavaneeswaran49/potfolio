@@ -15,7 +15,7 @@ export default function Home() {
                             <a className='href3' href='https://github.com/bavaneeswaran49'><i class="fa-brands fa-github"></i></a>
                             <a className='href4' href='mailto:bavaneeswaran49@gmail.com'><i className="fa-solid fa-message"></i></a>
                         </div>
-                        <a href='#shill' className='href1'><p className='button'>View Projects</p></a>
+                        <a href='#skills' className='href1'><p className='button'>View Projects</p></a>
 
                     </div>
                     <div className='class1  col-lg-3 col-md-3 col-sm-12'>
