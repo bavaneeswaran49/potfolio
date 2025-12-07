@@ -1,0 +1,29 @@
+[
+    {
+        "skills": "HTML 5"
+    },
+    {
+        "skills": "CSS 3"
+    },
+    {
+        "skills": "Bootstrap"
+    },
+    {
+        "skills": "mediaQuery"
+    },
+    {
+        "skills":"Java Script"
+    },
+    {
+        "skills":"Js Es6"
+    },
+    {
+        "skills":"React Js"
+    },
+    {
+        "skills":"Redux"
+    },
+    {
+        "skills":"Version Control (Git)"
+    }
+]

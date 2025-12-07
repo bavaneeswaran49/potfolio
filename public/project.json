@@ -1,0 +1,72 @@
+[
+    {
+        "image": "/assets/potfolio.png",
+        "projecttittle": "Bavaneeswar K Potfolio",
+        "summary": "This portfolio website is a clean and modern space that highlights my journey as a Full Stack Java Developer. It showcases my technical skills, tools I work with, ongoing learning, and the projects I’ve built using technologies like Java, Spring Boot, MySQL, JavaScript, React, and more.",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live":"hbb"
+    },
+    {
+        "image": "/assets/CarZone.png",
+        "projecttittle": "TrovanCarZone",
+        "summary": "Trovan CarZone is a simple and efficient web application that allows users to instantly identify the name of a car model based on the text they enter. The app provides a clean UI, fast response time, and a smooth user experience, making it useful for students, enthusiasts, and anyone looking to quickly check car model names.",
+        "github": "https://github.com/bavaneeswaran49/Car-Name",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live": "https://car-name-ce4c-3d6rtsb7u-bavans-projects-0b00baeb.vercel.app"
+
+    },
+    {
+        "image": "/assets/clothing.png",
+        "projecttittle": "TorvanClothing",
+        "summary": "web app is a clean, modern, user-friendly React-based application that delivers a focused service (or functionality) to users — with great UI/UX and smooth interactions. It showcases polished component-based design, responsive layout, and good front-end engineering practices. The app provides a simple, intuitive interface to deliver its core functionality quickly and effectively.",
+        "github": "https://github.com/bavaneeswaran49/Torvan",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live":"https://endearing-manatee-d403a2.netlify.app/"
+    },
+    {
+        "image": "/assets/currencyconverter.png",
+        "projecttittle": "Currency Converter",
+        "summary": "Built with modern frontend technologies (React or similar), the app demonstrates your ability to integrate external or live exchange-rate data (or static rate data), handle user input, manage state, and render results dynamically. The live deployment on Vercel shows you understand the full flow — from coding to building, hosting, and delivering a usable web tool.",
+        "github": "https://github.com/bavaneeswaran49/Currency-Converter",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live":"https://currency-converter-delta-ebon.vercel.app/"
+    },
+    {
+        "image": "/assets/bmi.png",
+        "projecttittle": "BMI Calculator",
+        "summary": "This portfolio website is a clean and modern space that highlights my journey as a Full Stack Java Developer. It showcases my technical skills, tools I work with, ongoing learning, and the projects I’ve built using technologies like Java, Spring Boot, MySQL, JavaScript, React, and more.",
+        "github": "https://github.com/bavaneeswaran49?tab=repositories",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live":"https://react-silk-beta.vercel.app/"
+    },
+    {
+        "image": "/assets/quotegenerator.png",
+        "projecttittle": "Quote for the Day",
+        "summary": "The project demonstrates your ability to work with APIs, React components, state management, event handling, and modern UI structuring. It also showcases your understanding of dynamic data rendering and creating interactive front-end features. This app reflects your growing skills as a front-end developer while offering users a simple and delightful way to discover meaningful quotes.",
+        "github": "https://github.com/bavaneeswaran49?tab=repositories",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/",
+        "live":"https://trovan-carzone-dqn9.vercel.app/"
+    }, {
+        "image": "/assets/rolebased.png",
+        "projecttittle": "Role-based-Authentication",
+        "summary": "The ALPHA Registration Page is a simple and functional user registration system built using HTML, CSS, and JavaScript, with a strong emphasis on clean UI and smooth user validation.",
+        "github": "https://github.com/bavaneeswaran49/localStorage/tree/main/gym",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/"
+    },
+    {
+        "image": "/assets/Tailor.png",
+        "projecttittle": "Tailor Webpage",
+        "summary": "This Tailor Service Website is built using a clean and structured front-end stack centered around HTML5, CSS3, and responsive layout techniques. The UI design emphasizes pixel-perfect alignment, organized grids, and modern typography to create a premium brand experience.",
+        "github": "https://github.com/bavaneeswaran49/tailoring_full_webpractice",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/"
+    },
+    {
+        "image": "/assets/gym.png",
+        "projecttittle": "Gold Gym",
+        "summary": "This GymLand Fitness Website is a fully responsive front-end design built using HTML5, CSS3, and Font Awesome, inspired by modern fitness and gym templates. The website focuses on powerful visual presentation, clean structure, and user-friendly navigation.",
+        "github": "https://github.com/bavaneeswaran49/web_practice",
+        "linkedin": "https://www.linkedin.com/in/bavaneeswaran-k-a17689316/"
+    }
+   
+]
