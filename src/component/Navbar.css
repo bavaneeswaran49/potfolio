@@ -31,6 +31,9 @@
     .nav-item {
         border-radius: 50px;
     }
+    .home{
+        margin-top: -10px;
+    }
 
 }
 
@@ -133,7 +136,7 @@
 .home {
     position: relative;
     z-index: 1000;
-    top: 25vh;
+    top: 5vh;
     padding-bottom: 15vh;
 }
 
