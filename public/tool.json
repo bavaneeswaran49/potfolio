@@ -7,4 +7,7 @@
     },{
         "tool":"Chrome DevTools"
     }
+    ,{
+        "tool":"TRAE"
+    }
 ]
